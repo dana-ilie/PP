@@ -1,0 +1,1 @@
+("8.4" tarm64osx ("214acd7d926d4aa2fcc58096f904a9ee75cf1b2a" . "39736f89cfa794853602738de60f992005a7abd5") #"/Users/dana/Local_Docs/PP/tema/etapa-3/ppt.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
